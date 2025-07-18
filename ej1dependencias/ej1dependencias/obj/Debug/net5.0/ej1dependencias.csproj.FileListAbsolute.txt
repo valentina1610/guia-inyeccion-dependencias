@@ -1,0 +1,16 @@
+C:\Users\gc\source\repos\guia-inyeccion-dependencias\ej1dependencias\ej1dependencias\bin\Debug\net5.0\ej1dependencias.exe
+C:\Users\gc\source\repos\guia-inyeccion-dependencias\ej1dependencias\ej1dependencias\bin\Debug\net5.0\ej1dependencias.deps.json
+C:\Users\gc\source\repos\guia-inyeccion-dependencias\ej1dependencias\ej1dependencias\bin\Debug\net5.0\ej1dependencias.runtimeconfig.json
+C:\Users\gc\source\repos\guia-inyeccion-dependencias\ej1dependencias\ej1dependencias\bin\Debug\net5.0\ej1dependencias.runtimeconfig.dev.json
+C:\Users\gc\source\repos\guia-inyeccion-dependencias\ej1dependencias\ej1dependencias\bin\Debug\net5.0\ej1dependencias.dll
+C:\Users\gc\source\repos\guia-inyeccion-dependencias\ej1dependencias\ej1dependencias\bin\Debug\net5.0\ej1dependencias.pdb
+C:\Users\gc\source\repos\guia-inyeccion-dependencias\ej1dependencias\ej1dependencias\obj\Debug\net5.0\ej1dependencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gc\source\repos\guia-inyeccion-dependencias\ej1dependencias\ej1dependencias\obj\Debug\net5.0\ej1dependencias.AssemblyInfoInputs.cache
+C:\Users\gc\source\repos\guia-inyeccion-dependencias\ej1dependencias\ej1dependencias\obj\Debug\net5.0\ej1dependencias.AssemblyInfo.cs
+C:\Users\gc\source\repos\guia-inyeccion-dependencias\ej1dependencias\ej1dependencias\obj\Debug\net5.0\ej1dependencias.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\guia-inyeccion-dependencias\ej1dependencias\ej1dependencias\obj\Debug\net5.0\ej1dependencias.sourcelink.json
+C:\Users\gc\source\repos\guia-inyeccion-dependencias\ej1dependencias\ej1dependencias\obj\Debug\net5.0\ej1dependencias.dll
+C:\Users\gc\source\repos\guia-inyeccion-dependencias\ej1dependencias\ej1dependencias\obj\Debug\net5.0\refint\ej1dependencias.dll
+C:\Users\gc\source\repos\guia-inyeccion-dependencias\ej1dependencias\ej1dependencias\obj\Debug\net5.0\ej1dependencias.pdb
+C:\Users\gc\source\repos\guia-inyeccion-dependencias\ej1dependencias\ej1dependencias\obj\Debug\net5.0\ej1dependencias.genruntimeconfig.cache
+C:\Users\gc\source\repos\guia-inyeccion-dependencias\ej1dependencias\ej1dependencias\obj\Debug\net5.0\ref\ej1dependencias.dll

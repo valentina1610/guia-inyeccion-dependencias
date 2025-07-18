@@ -1,10 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gc\\source\\repos\\ej1dependencias\\",
+  "WorkspaceRootPath": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej1dependencias\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{07F291F9-AD12-495B-96C9-A790D8C80409}|ej1dependencias\\ej1dependencias.csproj|c:\\users\\gc\\source\\repos\\ej1dependencias\\ej1dependencias\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{07F291F9-AD12-495B-96C9-A790D8C80409}|ej1dependencias\\ej1dependencias.csproj|c:\\users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej1dependencias\\ej1dependencias\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07F291F9-AD12-495B-96C9-A790D8C80409}|ej1dependencias\\ej1dependencias.csproj|solutionrelative:ej1dependencias\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F291F9-AD12-495B-96C9-A790D8C80409}|ej1dependencias\\ej1dependencias.csproj|c:\\users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej1dependencias\\ej1dependencias\\interface\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07F291F9-AD12-495B-96C9-A790D8C80409}|ej1dependencias\\ej1dependencias.csproj|solutionrelative:ej1dependencias\\interface\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F291F9-AD12-495B-96C9-A790D8C80409}|ej1dependencias\\ej1dependencias.csproj|c:\\users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej1dependencias\\ej1dependencias\\implementations\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07F291F9-AD12-495B-96C9-A790D8C80409}|ej1dependencias\\ej1dependencias.csproj|solutionrelative:ej1dependencias\\implementations\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F291F9-AD12-495B-96C9-A790D8C80409}|ej1dependencias\\ej1dependencias.csproj|c:\\users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej1dependencias\\ej1dependencias\\class\\appservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07F291F9-AD12-495B-96C9-A790D8C80409}|ej1dependencias\\ej1dependencias.csproj|solutionrelative:ej1dependencias\\class\\appservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F291F9-AD12-495B-96C9-A790D8C80409}|ej1dependencias\\ej1dependencias.csproj|c:\\users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej1dependencias\\ej1dependencias\\implementations\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07F291F9-AD12-495B-96C9-A790D8C80409}|ej1dependencias\\ej1dependencias.csproj|solutionrelative:ej1dependencias\\implementations\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F291F9-AD12-495B-96C9-A790D8C80409}|ej1dependencias\\ej1dependencias.csproj|c:\\users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej1dependencias\\ej1dependencias\\ej1dependencias.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{07F291F9-AD12-495B-96C9-A790D8C80409}|ej1dependencias\\ej1dependencias.csproj|solutionrelative:ej1dependencias\\ej1dependencias.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppService.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej1dependencias\\ej1dependencias\\Class\\AppService.cs",
+              "RelativeDocumentMoniker": "ej1dependencias\\Class\\AppService.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej1dependencias\\ej1dependencias\\Class\\AppService.cs",
+              "RelativeToolTip": "ej1dependencias\\Class\\AppService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T17:01:22.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileLogger.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej1dependencias\\ej1dependencias\\Implementations\\FileLogger.cs",
+              "RelativeDocumentMoniker": "ej1dependencias\\Implementations\\FileLogger.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej1dependencias\\ej1dependencias\\Implementations\\FileLogger.cs",
+              "RelativeToolTip": "ej1dependencias\\Implementations\\FileLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T16:58:47.776Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\ej1dependencias\\ej1dependencias\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej1dependencias\\ej1dependencias\\Program.cs",
               "RelativeDocumentMoniker": "ej1dependencias\\Program.cs",
-              "ToolTip": "C:\\Users\\gc\\source\\repos\\ej1dependencias\\ej1dependencias\\Program.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej1dependencias\\ej1dependencias\\Program.cs",
               "RelativeToolTip": "ej1dependencias\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-18T16:14:14.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ILogger.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej1dependencias\\ej1dependencias\\Interface\\ILogger.cs",
+              "RelativeDocumentMoniker": "ej1dependencias\\Interface\\ILogger.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej1dependencias\\ej1dependencias\\Interface\\ILogger.cs",
+              "RelativeToolTip": "ej1dependencias\\Interface\\ILogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T16:39:48.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsoleLogger.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej1dependencias\\ej1dependencias\\Implementations\\ConsoleLogger.cs",
+              "RelativeDocumentMoniker": "ej1dependencias\\Implementations\\ConsoleLogger.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej1dependencias\\ej1dependencias\\Implementations\\ConsoleLogger.cs",
+              "RelativeToolTip": "ej1dependencias\\Implementations\\ConsoleLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T16:53:38.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ej1dependencias",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej1dependencias\\ej1dependencias\\ej1dependencias.csproj",
+              "RelativeDocumentMoniker": "ej1dependencias\\ej1dependencias.csproj",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej1dependencias\\ej1dependencias\\ej1dependencias.csproj",
+              "RelativeToolTip": "ej1dependencias\\ej1dependencias.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-18T16:53:27.52Z",
               "EditorCaption": ""
             }
           ]
