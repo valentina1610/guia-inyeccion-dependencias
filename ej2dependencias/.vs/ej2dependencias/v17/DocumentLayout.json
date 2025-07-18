@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej2dependencias\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0935A2FB-D6BA-4CCA-BA9A-732DCE7A8417}|ej2dependencias\\ej2dependencias.csproj|c:\\users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej2dependencias\\ej2dependencias\\class\\appservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0935A2FB-D6BA-4CCA-BA9A-732DCE7A8417}|ej2dependencias\\ej2dependencias.csproj|solutionrelative:ej2dependencias\\class\\appservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0935A2FB-D6BA-4CCA-BA9A-732DCE7A8417}|ej2dependencias\\ej2dependencias.csproj|c:\\users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej2dependencias\\ej2dependencias\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0935A2FB-D6BA-4CCA-BA9A-732DCE7A8417}|ej2dependencias\\ej2dependencias.csproj|solutionrelative:ej2dependencias\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0935A2FB-D6BA-4CCA-BA9A-732DCE7A8417}|ej2dependencias\\ej2dependencias.csproj|c:\\users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej2dependencias\\ej2dependencias\\interface\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0935A2FB-D6BA-4CCA-BA9A-732DCE7A8417}|ej2dependencias\\ej2dependencias.csproj|solutionrelative:ej2dependencias\\interface\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0935A2FB-D6BA-4CCA-BA9A-732DCE7A8417}|ej2dependencias\\ej2dependencias.csproj|c:\\users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej2dependencias\\ej2dependencias\\ej2dependencias.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0935A2FB-D6BA-4CCA-BA9A-732DCE7A8417}|ej2dependencias\\ej2dependencias.csproj|solutionrelative:ej2dependencias\\ej2dependencias.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0935A2FB-D6BA-4CCA-BA9A-732DCE7A8417}|ej2dependencias\\ej2dependencias.csproj|c:\\users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej2dependencias\\ej2dependencias\\implementation\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0935A2FB-D6BA-4CCA-BA9A-732DCE7A8417}|ej2dependencias\\ej2dependencias.csproj|solutionrelative:ej2dependencias\\implementation\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "ConsoleLogger.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej2dependencias\\ej2dependencias\\Implementation\\ConsoleLogger.cs",
+              "RelativeDocumentMoniker": "ej2dependencias\\Implementation\\ConsoleLogger.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej2dependencias\\ej2dependencias\\Implementation\\ConsoleLogger.cs",
+              "RelativeToolTip": "ej2dependencias\\Implementation\\ConsoleLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T17:25:41.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ILogger.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej2dependencias\\ej2dependencias\\Interface\\ILogger.cs",
+              "RelativeDocumentMoniker": "ej2dependencias\\Interface\\ILogger.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej2dependencias\\ej2dependencias\\Interface\\ILogger.cs",
+              "RelativeToolTip": "ej2dependencias\\Interface\\ILogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T17:22:46.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej2dependencias\\ej2dependencias\\Program.cs",
               "RelativeDocumentMoniker": "ej2dependencias\\Program.cs",
               "ToolTip": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej2dependencias\\ej2dependencias\\Program.cs",
               "RelativeToolTip": "ej2dependencias\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-18T17:17:27.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ej2dependencias",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej2dependencias\\ej2dependencias\\ej2dependencias.csproj",
+              "RelativeDocumentMoniker": "ej2dependencias\\ej2dependencias.csproj",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej2dependencias\\ej2dependencias\\ej2dependencias.csproj",
+              "RelativeToolTip": "ej2dependencias\\ej2dependencias.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-18T17:29:42.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppService.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej2dependencias\\ej2dependencias\\Class\\AppService.cs",
+              "RelativeDocumentMoniker": "ej2dependencias\\Class\\AppService.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej2dependencias\\ej2dependencias\\Class\\AppService.cs",
+              "RelativeToolTip": "ej2dependencias\\Class\\AppService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T17:30:00.391Z",
               "EditorCaption": ""
             }
           ]

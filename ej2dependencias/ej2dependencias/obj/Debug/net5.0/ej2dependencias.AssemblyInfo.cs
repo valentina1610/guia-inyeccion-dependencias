@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ej2dependencias")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+edab1855136abab92d82b769a12c9641066bccba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97078bead36cab3d794b58f24795a58847bc75d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ej2dependencias")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ej2dependencias")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
