@@ -1,4 +1,6 @@
 ﻿using System;
+using ej3dependencias.Class;
+using ej3dependencias.Implementation;
 
 namespace ej3dependencias
 {
@@ -6,7 +8,9 @@ namespace ej3dependencias
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var reportGen = new ReportGenerator();
+            reportGen.Configure(new ConsoleLogger());
+            reportGen.GenerateReport();
         }
     }
 }

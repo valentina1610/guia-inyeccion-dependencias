@@ -5,6 +5,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{D57F552A-BFD0-4708-AA6F-DAE2063F9645}|ej3dependencias\\ej3dependencias.csproj|c:\\users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej3dependencias\\ej3dependencias\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D57F552A-BFD0-4708-AA6F-DAE2063F9645}|ej3dependencias\\ej3dependencias.csproj|solutionrelative:ej3dependencias\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D57F552A-BFD0-4708-AA6F-DAE2063F9645}|ej3dependencias\\ej3dependencias.csproj|c:\\users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej3dependencias\\ej3dependencias\\class\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D57F552A-BFD0-4708-AA6F-DAE2063F9645}|ej3dependencias\\ej3dependencias.csproj|solutionrelative:ej3dependencias\\class\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D57F552A-BFD0-4708-AA6F-DAE2063F9645}|ej3dependencias\\ej3dependencias.csproj|c:\\users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej3dependencias\\ej3dependencias\\interfaces\\iconfigurable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D57F552A-BFD0-4708-AA6F-DAE2063F9645}|ej3dependencias\\ej3dependencias.csproj|solutionrelative:ej3dependencias\\interfaces\\iconfigurable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D57F552A-BFD0-4708-AA6F-DAE2063F9645}|ej3dependencias\\ej3dependencias.csproj|c:\\users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej3dependencias\\ej3dependencias\\interfaces\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D57F552A-BFD0-4708-AA6F-DAE2063F9645}|ej3dependencias\\ej3dependencias.csproj|solutionrelative:ej3dependencias\\interfaces\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D57F552A-BFD0-4708-AA6F-DAE2063F9645}|ej3dependencias\\ej3dependencias.csproj|c:\\users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej3dependencias\\ej3dependencias\\implementation\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D57F552A-BFD0-4708-AA6F-DAE2063F9645}|ej3dependencias\\ej3dependencias.csproj|solutionrelative:ej3dependencias\\implementation\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D57F552A-BFD0-4708-AA6F-DAE2063F9645}|ej3dependencias\\ej3dependencias.csproj|c:\\users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej3dependencias\\ej3dependencias\\ej3dependencias.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D57F552A-BFD0-4708-AA6F-DAE2063F9645}|ej3dependencias\\ej3dependencias.csproj|solutionrelative:ej3dependencias\\ej3dependencias.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +34,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej3dependencias\\ej3dependencias\\Class\\ReportGenerator.cs",
+              "RelativeDocumentMoniker": "ej3dependencias\\Class\\ReportGenerator.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej3dependencias\\ej3dependencias\\Class\\ReportGenerator.cs",
+              "RelativeToolTip": "ej3dependencias\\Class\\ReportGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T17:56:16.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IConfigurable.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej3dependencias\\ej3dependencias\\Interfaces\\IConfigurable.cs",
+              "RelativeDocumentMoniker": "ej3dependencias\\Interfaces\\IConfigurable.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej3dependencias\\ej3dependencias\\Interfaces\\IConfigurable.cs",
+              "RelativeToolTip": "ej3dependencias\\Interfaces\\IConfigurable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T17:51:17.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsoleLogger.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej3dependencias\\ej3dependencias\\Implementation\\ConsoleLogger.cs",
+              "RelativeDocumentMoniker": "ej3dependencias\\Implementation\\ConsoleLogger.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej3dependencias\\ej3dependencias\\Implementation\\ConsoleLogger.cs",
+              "RelativeToolTip": "ej3dependencias\\Implementation\\ConsoleLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T17:47:20.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILogger.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej3dependencias\\ej3dependencias\\Interfaces\\ILogger.cs",
+              "RelativeDocumentMoniker": "ej3dependencias\\Interfaces\\ILogger.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej3dependencias\\ej3dependencias\\Interfaces\\ILogger.cs",
+              "RelativeToolTip": "ej3dependencias\\Interfaces\\ILogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T17:46:10.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ej3dependencias",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej3dependencias\\ej3dependencias\\ej3dependencias.csproj",
+              "RelativeDocumentMoniker": "ej3dependencias\\ej3dependencias.csproj",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej3dependencias\\ej3dependencias\\ej3dependencias.csproj",
+              "RelativeToolTip": "ej3dependencias\\ej3dependencias.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-18T17:45:49.47Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +109,7 @@
               "RelativeDocumentMoniker": "ej3dependencias\\Program.cs",
               "ToolTip": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej3dependencias\\ej3dependencias\\Program.cs",
               "RelativeToolTip": "ej3dependencias\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-18T17:44:39.643Z",
               "EditorCaption": ""
