@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej4dependencias\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{40EA390C-C759-42C1-B7A0-4D8920066222}|ej4dependencias\\ej4dependencias.csproj|c:\\users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej4dependencias\\ej4dependencias\\classes\\compositionroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40EA390C-C759-42C1-B7A0-4D8920066222}|ej4dependencias\\ej4dependencias.csproj|solutionrelative:ej4dependencias\\classes\\compositionroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40EA390C-C759-42C1-B7A0-4D8920066222}|ej4dependencias\\ej4dependencias.csproj|c:\\users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej4dependencias\\ej4dependencias\\implementations\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40EA390C-C759-42C1-B7A0-4D8920066222}|ej4dependencias\\ej4dependencias.csproj|solutionrelative:ej4dependencias\\implementations\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40EA390C-C759-42C1-B7A0-4D8920066222}|ej4dependencias\\ej4dependencias.csproj|c:\\users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej4dependencias\\ej4dependencias\\classes\\notificationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40EA390C-C759-42C1-B7A0-4D8920066222}|ej4dependencias\\ej4dependencias.csproj|solutionrelative:ej4dependencias\\classes\\notificationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40EA390C-C759-42C1-B7A0-4D8920066222}|ej4dependencias\\ej4dependencias.csproj|c:\\users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej4dependencias\\ej4dependencias\\implementations\\smsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40EA390C-C759-42C1-B7A0-4D8920066222}|ej4dependencias\\ej4dependencias.csproj|solutionrelative:ej4dependencias\\implementations\\smsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{40EA390C-C759-42C1-B7A0-4D8920066222}|ej4dependencias\\ej4dependencias.csproj|c:\\users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej4dependencias\\ej4dependencias\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40EA390C-C759-42C1-B7A0-4D8920066222}|ej4dependencias\\ej4dependencias.csproj|solutionrelative:ej4dependencias\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40EA390C-C759-42C1-B7A0-4D8920066222}|ej4dependencias\\ej4dependencias.csproj|c:\\users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej4dependencias\\ej4dependencias\\ej4dependencias.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{40EA390C-C759-42C1-B7A0-4D8920066222}|ej4dependencias\\ej4dependencias.csproj|solutionrelative:ej4dependencias\\ej4dependencias.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40EA390C-C759-42C1-B7A0-4D8920066222}|ej4dependencias\\ej4dependencias.csproj|c:\\users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej4dependencias\\ej4dependencias\\interface\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40EA390C-C759-42C1-B7A0-4D8920066222}|ej4dependencias\\ej4dependencias.csproj|solutionrelative:ej4dependencias\\interface\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +43,90 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CompositionRoot.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej4dependencias\\ej4dependencias\\Classes\\CompositionRoot.cs",
+              "RelativeDocumentMoniker": "ej4dependencias\\Classes\\CompositionRoot.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej4dependencias\\ej4dependencias\\Classes\\CompositionRoot.cs",
+              "RelativeToolTip": "ej4dependencias\\Classes\\CompositionRoot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T14:31:28.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotificationManager.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej4dependencias\\ej4dependencias\\Classes\\NotificationManager.cs",
+              "RelativeDocumentMoniker": "ej4dependencias\\Classes\\NotificationManager.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej4dependencias\\ej4dependencias\\Classes\\NotificationManager.cs",
+              "RelativeToolTip": "ej4dependencias\\Classes\\NotificationManager.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAEwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T14:28:23.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ej4dependencias",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej4dependencias\\ej4dependencias\\ej4dependencias.csproj",
+              "RelativeDocumentMoniker": "ej4dependencias\\ej4dependencias.csproj",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej4dependencias\\ej4dependencias\\ej4dependencias.csproj",
+              "RelativeToolTip": "ej4dependencias\\ej4dependencias.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-19T14:27:18.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SmsService.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej4dependencias\\ej4dependencias\\Implementations\\SmsService.cs",
+              "RelativeDocumentMoniker": "ej4dependencias\\Implementations\\SmsService.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej4dependencias\\ej4dependencias\\Implementations\\SmsService.cs",
+              "RelativeToolTip": "ej4dependencias\\Implementations\\SmsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T14:24:51.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej4dependencias\\ej4dependencias\\Implementations\\EmailService.cs",
+              "RelativeDocumentMoniker": "ej4dependencias\\Implementations\\EmailService.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej4dependencias\\ej4dependencias\\Implementations\\EmailService.cs",
+              "RelativeToolTip": "ej4dependencias\\Implementations\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T14:23:28.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMessageService.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej4dependencias\\ej4dependencias\\Interface\\IMessageService.cs",
+              "RelativeDocumentMoniker": "ej4dependencias\\Interface\\IMessageService.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej4dependencias\\ej4dependencias\\Interface\\IMessageService.cs",
+              "RelativeToolTip": "ej4dependencias\\Interface\\IMessageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T14:20:43.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej4dependencias\\ej4dependencias\\Program.cs",
               "RelativeDocumentMoniker": "ej4dependencias\\Program.cs",
               "ToolTip": "C:\\Users\\gc\\source\\repos\\guia-inyeccion-dependencias\\ej4dependencias\\ej4dependencias\\Program.cs",
               "RelativeToolTip": "ej4dependencias\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-19T14:14:06.291Z",
               "EditorCaption": ""

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ej4dependencias")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e06d32838045bb5fe3f832fe05dfc8be87fe8cf3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94a9e01fe998f94456dc4e082d8ea5debc5d0a79")]
 [assembly: System.Reflection.AssemblyProductAttribute("ej4dependencias")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ej4dependencias")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

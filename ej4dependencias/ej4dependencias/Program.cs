@@ -1,4 +1,5 @@
 ﻿using System;
+using ej4dependencias.Classes;
 
 namespace ej4dependencias
 {
@@ -6,7 +7,10 @@ namespace ej4dependencias
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var manager = CompositionRoot.Build();
+
+            manager.Notify("Hello!");
+
         }
     }
 }

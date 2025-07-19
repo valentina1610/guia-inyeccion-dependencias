@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ej4dependencias/1.0.0": {
+        "runtime": {
+          "ej4dependencias.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ej4dependencias/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
