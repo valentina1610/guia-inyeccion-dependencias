@@ -1,4 +1,6 @@
 ﻿using System;
+using ej5dependencias.Class;
+using ej5dependencias.Mock;
 
 namespace ej5dependencias
 {
@@ -6,7 +8,16 @@ namespace ej5dependencias
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var mockLogger = new MockLogger();
+            var appService = new AppService(mockLogger);
+
+            appService.Run();
+
+            foreach (var m in mockLogger.Messages)
+            {
+                Console.WriteLine(m);
+            }
+
         }
     }
 }

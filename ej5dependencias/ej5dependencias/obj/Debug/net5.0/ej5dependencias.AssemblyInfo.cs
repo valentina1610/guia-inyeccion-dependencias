@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ej5dependencias")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84cc351281cd6523895f33791e5b6c001c2e34be")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+408c95ea48e0b2caf4b9c4693e9fb5159066fcc4")]
 [assembly: System.Reflection.AssemblyProductAttribute("ej5dependencias")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ej5dependencias")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
